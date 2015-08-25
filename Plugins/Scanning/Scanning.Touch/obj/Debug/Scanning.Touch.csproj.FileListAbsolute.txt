@@ -1,0 +1,16 @@
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\ScanningTouch.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\ScanningTouch.pdb
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.CrossCore.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.CrossCore.Touch.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.MvvmCross.Binding.Touch.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.MvvmCross.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Cirrious.MvvmCross.Touch.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\MWBarcodeScanner.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Scanning.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Scanning.pdb
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\bin\iPhone\Debug\Scanning.dll.mdb
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\obj\Debug\Scanning.Touch.csprojResolveAssemblyReference.cache
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\obj\Debug\ScanningTouch.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.Touch\obj\Debug\ScanningTouch.pdb

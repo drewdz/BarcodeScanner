@@ -1,0 +1,8 @@
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\bin\Debug\Scanning.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\bin\Debug\Scanning.pdb
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\bin\Debug\Cirrious.CrossCore.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\bin\Debug\Cirrious.MvvmCross.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\obj\Debug\Scanning.csprojResolveAssemblyReference.cache
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\obj\Debug\Scanning.dll
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\obj\Debug\Scanning.pdb

@@ -1,0 +1,6 @@
+values/Strings.xml;values/strings.xml
+layout/scanner.xml;layout/scanner.xml
+drawable/flashbuttonoff.png;drawable/flashbuttonoff.png
+drawable/flashbuttonon.png;drawable/flashbuttonon.png
+drawable/overlay.png;drawable/overlay.png
+drawable/zoom.png;drawable/zoom.png

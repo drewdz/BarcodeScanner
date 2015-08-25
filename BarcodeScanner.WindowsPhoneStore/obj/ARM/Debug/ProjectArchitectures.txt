@@ -1,0 +1,6 @@
+C:\Code\BarcodeScanner\BarcodeScanner.Core\BarcodeScanner.Core.csproj;neutral
+C:\Code\BarcodeScanner\BarcodeScanner.WindowsPhoneStore\BarcodeScanner.WindowsPhoneStore.csproj;arm
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning.WindowsPhoneStore\Scanning.WindowsPhoneStore.csproj;arm
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\Scanning.csproj;neutral
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\Scanning.csproj;neutral
+C:\Code\BarcodeScanner\Plugins\Scanning\Scanning\Scanning.csproj;neutral

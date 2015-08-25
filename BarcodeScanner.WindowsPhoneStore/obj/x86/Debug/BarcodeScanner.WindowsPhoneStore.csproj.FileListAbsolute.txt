@@ -1,0 +1,1 @@
+C:\Code\BarcodeScanner\BarcodeScanner.WindowsPhoneStore\obj\x86\Debug\BarcodeScanner.WindowsPhoneStore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,20 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\code\barcodescanner\barcodescanner.windowsphonestore\obj\arm\debug\intermediatexaml\barcodescanner.windowsphonestore.exe" HashGuid="d863bdff-c1ad-b702-4372-ddd0e7eb0acf" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\binaries\wp8\barcodelib.winmd" HashGuid="4beb1ec2-9e19-3005-1e29-622c9fd479fc" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\barcodescanner.core\bin\debug\barcodescanner.core.dll" HashGuid="18872da7-c307-955e-e119-852dcada8f21" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\wpa81\cirrious.crosscore.dll" HashGuid="f51cf076-e9f9-7893-b7aa-10ded5a79469" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\wpa81\cirrious.crosscore.windowscommon.dll" HashGuid="33137c4e-381b-0828-9fcf-2ac3014e11f4" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.5.1\lib\wpa81\cirrious.mvvmcross.dll" HashGuid="c59ba883-98f9-a0fc-9b87-39694ebb8fc3" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\mvvmcross.hottuna.crosscore.3.5.1\lib\wpa81\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.5.1\lib\wpa81\cirrious.mvvmcross.windowscommon.dll" HashGuid="9470c5fd-ff0e-73c7-d67b-3c13969244eb" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\lumiaimagingsdk.2.0.208\lib\wpa81-hidden\arm\lumia.imaging.managed.dll" HashGuid="4995ac95-997b-6a34-dd96-7fb05ef15210" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\lumiaimagingsdk.2.0.208\lib\wpa81\arm\lumia.imaging.winmd" HashGuid="d16e02ff-554c-0883-c15e-9c1ee6c065c5" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\packages\lumiaimagingsdk.2.0.208\lib\wpa81\arm\lumia.interopservices.windowsruntime.winmd" HashGuid="be026b97-4e17-03e1-494d-e8a25f3c2582" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\plugins\scanning\scanning\bin\debug\scanning.dll" HashGuid="8d9e8e87-6b72-fe96-182b-6c71de2f10fd" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\plugins\scanning\scanning.windowsphonestore\bin\arm\debug\scanning.windowsphonestore.dll" HashGuid="a33a27b5-4581-4137-2bdb-3b43b24ed049" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\binaries\wp8\writeablebitmapexwinphone.dll" HashGuid="f7dadeba-9da1-f57e-7e79-399b7e698cb4" />
+    <ReferenceAssembly PathName="c:\code\barcodescanner\binaries\wp8\writeablebitmapexwinphonexnadependant.dll" HashGuid="70088b9a-5d45-ba26-f19a-2bb2e3577719" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
