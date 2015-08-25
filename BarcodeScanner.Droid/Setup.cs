@@ -32,14 +32,14 @@ namespace BarcodeScanner.Droid
                     new Scanning.Entities.ScanningConfig 
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_QR,
-                        UserName = "mobiledev@outsurance.co.za",
-                        Key = "8CE7B3D6121144EAEF0761106EFE414DF1EAF9BF041AE322A87ED6F05C039244"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     },
                     new Scanning.Entities.ScanningConfig
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_PDF,
-                        UserName = "mobiledev@outsurance.co.za",
-                        Key = "CE7D9296AFF19F4AF931A7146B8D7BBE7DE3C574B4C0EC782179A95B210CE357"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     }
                 };
             }

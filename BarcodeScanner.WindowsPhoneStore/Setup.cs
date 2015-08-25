@@ -31,14 +31,14 @@ namespace BarcodeScanner.WindowsPhoneStore
                     new Scanning.Entities.ScanningConfig
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_PDF,
-                        UserName = "mobiledev@outsurance.co.za",
-                        Key = "57F2CA783E8C134F6D73A005442D5296B3DA8B2FFEE228A4305D6E51E684418A"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     },
                     new Scanning.Entities.ScanningConfig 
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_QR,
-                        UserName = "mobiledev@outsurance.co.za",
-                        Key = "0A354C8D0FCAA8B2AF566E991DF73BF8CEBED981A0A4234096BCAB895A9BDF3E"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     }
                 };
             }

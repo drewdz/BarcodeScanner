@@ -31,14 +31,14 @@ namespace BarcodeScanner.Touch
                     new Scanning.Entities.ScanningConfig 
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_QR,
-                        UserName = "mobiledev@outsurance.co.za",
-                        Key = "E9C1EAD4DCE87631BFCA0FBB6DF54D23D22FC004CB46881EC0E65C0D2B513285"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     },
                     new Scanning.Entities.ScanningConfig
                     {
                         Code = Scanning.Entities.ScanningConfig.MWB_CODE_MASK_PDF,
-                        UserName = "OUTsurance.PDF.iOS.UDL",
-                        Key = "55B500FBC6F7AB88E1785843076818DBC6AC2FD728AEF9EF3D46B5DFA956D2FC"
+                        UserName = "your_user_name",
+                        Key = "your_key"
                     }
                 };
             }
